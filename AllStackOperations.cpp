@@ -176,7 +176,7 @@ int main()
             break;
           
         case 6:
-            cout<<"Count function called. Number of items in the Stack are :"<<s1.count()<<endl;
+            cout<<"Count function called. /n Number of items in the Stack are :"<<s1.count()<<endl;
             break;
                 
         case 7:
